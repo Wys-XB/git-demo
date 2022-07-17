@@ -9,6 +9,6 @@ def getCode():
 |a|a|
 ```java
 public void test(){
-    System.out.println("hello")
+    System.out.println("hello");
 }
 ```java
